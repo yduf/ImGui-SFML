@@ -1,11 +1,11 @@
+// https://www.youtube.com/watch?v=2YS5WJTeKpI
+// https://github.com/VictorGordan/SFML-ImGUI/blob/main/main.cpp
 #include <stdio.h>
 
 #include "imgui.h"
 #include "imgui-SFML.h"
 
 #include "SFML/Graphics.hpp"
-
-#define PROJECT_NAME "sfml"
 
 int main(int argc, char **argv) {
     sf::RenderWindow window(sf::VideoMode(800, 800), "Window Title");
