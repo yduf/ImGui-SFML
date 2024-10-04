@@ -1,6 +1,6 @@
 # ImGui + SFML Tutorial
 
-Drom [ImGui + SFML Tutorial - Install & Basics](https://www.youtube.com/watch?v=2YS5WJTeKpI)
+From [ImGui + SFML Tutorial - Install & Basics](https://www.youtube.com/watch?v=2YS5WJTeKpI)
 - [imgui-sfml](https://github.com/SFML/imgui-sfml?tab=readme-ov-file#imgui-sfml) - a Library which allows you to use Dear ImGui with SFML
 
 Tailored to compile on linux with meson build system
